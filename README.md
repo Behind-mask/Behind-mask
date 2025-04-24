@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Behind--mask-181717?style=for-the-badge&logo=github)](https://github.com/Behind-mask)
 ![Profile Views](https://komarev.com/ghpvc/?username=Behind-mask&style=for-the-badge&color=green)
 
-🚀 I'm a passionate **Software Engineer** with a strong focus on **AI/ML**, **data automation**, and **intelligent systems**. I thrive at the intersection of innovation and practicality — building tools and solutions that streamline workflows and empower businesses to make smarter decisions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7D818&multiline=true&width=500&lines=Software+engineer!+Powered+by+AI+curiosity.)](https://git.io/typing-svg)
 
 ---
 
@@ -28,6 +28,8 @@
 ---
 
 ## 💼 What I’ve Built
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Behind-mask&theme=great-gatsby&show_icons=true" width="450">
 
 🧠 **AI-Driven Resume Parser & Talent Matcher**  
 📈 **Inventory Forecasting System**  
@@ -71,6 +73,9 @@ English | Malayalam | Tamil | Hindi
 💻 [GitHub](https://github.com/Behind-mask)
 
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Behind-mask&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-_“In a world of automation, creativity and curiosity are your superpowers.”_
+---
+
+_“In a world of automation, creativity and Curiosity is your superpower.”_
 
