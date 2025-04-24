@@ -11,19 +11,19 @@
 ## 🧠 My Current Skillset
 
 **Languages & Scripting**
-- Python, SQL, Shell Scripting, C
+- Python, Shell Scripting, C
 
 **AI/ML Technologies**
 - Large Language Models (LLMs), LangChain, RAG (Retrieval-Augmented Generation), OpenAI APIs, NLP pipelines, Ollama, MCP, A2A
 
 **Data & Automation**
-- Pandas, Prophet, Data Cleaning & ETL, Skill-matching algorithms, AI-driven resume parsing, cold calling automation
+- Pandas, Prophet, Data Cleaning & ETL, AI-driven resume parsing, cold calling automations
 
 **Dev Tools & Platforms**
-- GitHub, Docker, Swagger, Postman, Gmail API, SQLAlchemy
+- GitHub, Docker, Swagger, Postman, Gmail API
 
 **Database & Cloud**
-- PostgreSQL, SQLite, Cloud-based AI Deployments
+- PostgreSQL, SQLite, Cloud-based AI Deployments and Open-source models Deployments
 
 ---
 
@@ -32,7 +32,7 @@
 🧠 **AI-Driven Resume Parser & Talent Matcher**  
 📈 **Inventory Forecasting System**  
 📞 **AI Cold Calling System**  
-📊 **Data Pipelines for Inference & Document Processing**  
+📊 **RAG based Copilot**  
 ⚙️ **Embedded Systems Projects**
 
 > From intelligent automation to embedded innovations — I build things that work and scale.
