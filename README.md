@@ -45,7 +45,6 @@
 
 - 🧠 MCP 
 - 🧩 A2A
-- ☁️ Scalable AI infra with serverless & Kubernetes
 - 📊 Streamlit-powered AI dashboards
 - 🤖 AI Cost Management
 
