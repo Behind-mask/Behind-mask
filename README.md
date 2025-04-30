@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joval Kuruvila Cheriyan!
+# Hi, I'm Joval Kuruvila Cheriyan!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joval-kuruvila/)
 [![GitHub](https://img.shields.io/badge/GitHub-Behind--mask-181717?style=for-the-badge&logo=github)](https://github.com/Behind-mask)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 My Current Skillset
+## My Current Skillset
 
 **Languages & Scripting**
 - Python, Shell Scripting, C
@@ -27,45 +27,45 @@
 
 ---
 
-## 💼 What I’ve Built
+## What I’ve Built
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Behind-mask&theme=great-gatsby&show_icons=true" width="450">
 
-🧠 **AI-Driven Resume Parser & Talent Matcher**  
-📈 **Inventory Forecasting System**  
-📞 **AI Cold Calling System**  
-📊 **RAG based Copilot**  
-⚙️ **Embedded Systems Projects**
+**AI-Driven Resume Parser & Talent Matcher**  
+**Inventory Forecasting System**  
+**AI Cold Calling System**  
+**RAG based Copilot**  
+**Embedded Systems Projects**
 
 > From intelligent automation to embedded innovations — I build things that work and scale.
 
 ---
 
-## 🌱 What I’m Exploring Next
+## What I’m Exploring Next
 
-- 🧠 MCP 
-- 🧩 A2A
-- 📊 Streamlit-powered AI dashboards
-- 🤖 AI Cost Management
-
----
-
-## 🏆 Certifications & Awards
-
-- 🧬 Embedded Systems - Emertxe
-- 🧠 AI Foundations - IBM
-- 🔌 PCB Designing - Industrus Tech
-- ⚡ Internships: Power Substations, EV Development
+- MCP 
+- A2A
+- Streamlit-powered AI dashboards
+- AI Cost Management
 
 ---
 
-## 🌍 Languages
+## Certifications & Awards
+
+- Embedded Systems - Emertxe
+- AI Foundations - IBM
+- PCB Designing - Industrus Tech
+- Internships: Power Substations, EV Development
+
+---
+
+## Languages
 
 English | Malayalam | Tamil | Hindi
 
 ---
 
-## 📫 Let’s Connect!
+## Let’s Connect!
 
 📧 [Email](jovalkuruvilla@gmail.com/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/joval-kuruvila/)  
